@@ -1,0 +1,232 @@
+﻿
+[
+  {
+    "id" : 1,
+    "name" : "FaZe Clan",
+    "color" : "#ED2224",
+    "emoteName" : "<:Faze:1033806168537190490>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/Faze-light.png",
+    "LegendResult" : 4 ,
+    "ChallengerResult" : 4
+    
+  },
+  {
+    "id" : 2,
+    "name" : "Ninjas in Pyjamas",
+    "color" : "#CEF003",
+    "emoteName" : "<:NIP:1033806186778210418>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/NIP-neon.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 3,
+    "name" : "Natus Vincere",
+    "color" : "#FFEE00",
+    "emoteName" : "<:NAVI:1033806185188556912>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/navi.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+
+  },
+  {
+    "id" : 4,
+    "name" : "ENCE",
+    "color" : "#FFC15D",
+    "emoteName" : "<:ENCE:1033806167304044624>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/ence.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+
+  },
+  {
+    "id" : 5,
+    "name" : "Team Spirit",
+    "color" : "#000000",
+    "emoteName" : "<:Spirit:1033806190112690217>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/team-spirit.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+
+  },
+  {
+    "id" : 6,
+    "name" : "Cloud9",
+    "color" : "#0088DA",
+    "emoteName" : "<:Cloud9:1033806164409983018>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/cloud9.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 7,
+    "name" : "Sprout",
+    "color" : "#36B450",
+    "emoteName" : "<:Sprout:1033806191375163445>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/sprout.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 8,
+    "name" : "Heroic",
+    "color" : "#ED1C24",
+    "emoteName" : "<:Heroic:1033806175331946626>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/heroic.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 9,
+    "name" : "Vitality",
+    "color" : "#FAE100",
+    "emoteName" : "<:Vitality:1033806192969007146>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/team-vitality.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 10,
+    "name" : "OG",
+    "color" : "#002554",
+    "emoteName" : "<:OG:1033806188262985818>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/OG-RedBull.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 11,
+    "name" : "Fnatic",
+    "color" : "#FF5900",
+    "emoteName" : "<:Fnatic:1033806169883545652>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/fnatic.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 12,
+    "name" : "GamerLegion",
+    "color" : "#F2A92B",
+    "emoteName" : "<:GamerLegion:1033806172882477178>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/Team-GamerLegion.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 13,
+    "name" : "Bad News Eagles",
+    "color" : "#E80F2D",
+    "emoteName" : "<:BNE:1033806163373985904>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/Bad-News-Eagles.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 14,
+    "name" : "BIG",
+    "color" : "#ffffff",
+    "emoteName" : "<:BIG:1033806161817911447>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/big.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 15,
+    "name" : "MOUZ",
+    "color" : "#FF0000",
+    "emoteName" : "<:MOUZ:1033806183930265780>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/mouz.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 3
+  },
+  {
+    "id" : 16,
+    "name" : "Outsiders",
+    "color" : "#9601FC",
+    "emoteName" : "<:Outsiders:1033806189223477310>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/outsiders.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 17,
+    "name" : "Evil Geniuses",
+    "color" : "#0C1220",
+    "emoteName" : "<:EG:1033806165773144205>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/evil-geniuses.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 18,
+    "name" : "Team Liquid",
+    "color" : "#0A1723",
+    "emoteName" : "<:Liquid:1033806182802018334>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/team-liquid.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 19,
+    "name" : "9z",
+    "color" : "#582B83",
+    "emoteName" : "<:9z:1033806160341520516>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/9z-team.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 20,
+    "name" : "FURIA",
+    "color" : "#000000",
+    "emoteName" : "<:Furia:1033806171418677389>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/furia.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 21,
+    "name" : "00 Nation",
+    "color" : "#000000",
+    "emoteName" : "<:00Nation:1033806159095791657>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/00Nation.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 0
+  },
+  {
+    "id" : 22,
+    "name" : "Imperial Esports",
+    "color" : "#0CD664",
+    "emoteName" : "<:Imperial:1033806180876824727>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/imperial.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 23,
+    "name" : "IHC",
+    "color" : "#BF8E42",
+    "emoteName" : "<:IHC:1033806179635310642>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/IHC-Esports.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 24,
+    "name" : "Grayhound",
+    "color" : "#A3AAB2",
+    "emoteName" : "<:Grayhound:1033806173989777538>",
+    "ImageURL" : "https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/10/grayhoung-gaming.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  },
+  {
+    "id" : 25,
+    "name" : "TBD",
+    "color" : "#ED2224",
+    "emoteName" : "<:Copium:905940670064230510>",
+    "ImageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Question_mark_%28black%29.svg/800px-Question_mark_%28black%29.svg.png",
+    "LegendResult" : 4,
+    "ChallengerResult" : 4
+  }
+]
